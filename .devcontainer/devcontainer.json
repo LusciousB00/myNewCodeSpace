@@ -35,7 +35,8 @@
                 
                 // Other tools
                 "Cardinal90.multi-cursor-case-preserve",
-                "ksu-alt-cs.pedagogical"
+                "ksu-alt-cs.pedagogical",
+                "visualprogrammingx.sourcecodevisualizer"
             ]
         }
     }
